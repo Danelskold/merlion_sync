@@ -1,0 +1,164 @@
+ML010201 ML0102 Mobile Rack
+ML010202 ML0102 Внешний корпус для HDD
+null null null
+null null null
+null null null
+ML010404 ML0104 PCI-E
+ML010407 ML0104 TV-Tuner
+null null null
+null null null
+null null null
+ML010603 ML0106 2,5
+ML010604 ML0106 SATA
+ML010606 ML0106 SAS/FC
+null null null
+null null null
+null null null
+ML010801 ML0108 Кабели, адаптеры для мобильных телефонов/планшетов
+ML010802 ML0108 Кабели и шлейфы
+ML010901 ML0109 IDE/SATA/SCSI
+ML010904 ML0109 Port/USB
+ML010905 ML0109 Bluetooth
+ML010908 ML0109 Internal Card Reader
+ML011001 ML0110 ATX
+ML011002 ML0110 mATX
+ML011010 ML0110 Прочие
+ML011011 ML0110 MiniITX
+ML011113 ML0111 Socket-1200
+ML011114 ML0111 Socket-1700
+ML011115 ML0111 Socket-AM5
+ML011104 ML0111 Прочее
+ML011109 ML0111 Socket-1151v2
+ML011110 ML0111 Socket-2066
+ML011111 ML0111 Socket-AM4
+ML011212 ML0112 DDR5
+ML011202 ML0112 DDR II
+ML011203 ML0112 DDR3
+ML011204 ML0112 Server Memory
+ML011208 ML0112 SO-DIMM
+ML011211 ML0112 DDR4
+null null null
+null null null
+null null null
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML011524 ML0115 Все кулеры
+ML011516 ML0115 Универсальные
+ML011508 ML0115 Для AMD
+ML011519 ML0115 Для INTEL
+ML011523 ML0115 Для корпусов
+ML011522 ML0115 Термопаста
+ML011514 ML0115 Другое
+ML011501 ML0115 Аксессуары для устройств охлаждения
+ML011833 ML0118 Услуги
+ML011802 ML0118 ТпЗ
+ML012302 ML0123 2.5"
+ML012304 ML0123 M.2
+ML012305 ML0123 mSATA
+ML012306 ML0123 Аксессуары для SSD
+ML450100 ML4501 Диски и документация
+ML450101 ML4501 Именные лицензии
+ML450102 ML4501 Коробочные продукты
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML450400 ML4504 Диски и документация
+ML450402 ML4504 Компонент ПАК
+ML450403 ML4504 Неименные лицензии (EKEY)/Электронные ключи (ESD)
+ML450405 ML4504 ПАК
+ML450406 ML4504 Сертификаты технической поддержки
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML450700 ML4507 Диски и документация
+ML450701 ML4507 Именные лицензии
+ML450702 ML4507 Коробочные продукты
+ML450705 ML4507 Предустановленное ПО (ОЕМ)
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML451100 ML4511 Диски и документация
+ML451101 ML4511 Именные лицензии
+ML451102 ML4511 Коробочные продукты
+ML451105 ML4511 Сертификаты технической поддержки
+ML451202 ML4512 Коробочные продукты
+ML451203 ML4512 Предустановленное ПО (ОЕМ)
+ML020101 ML0201 Держатели, подставки для планшетов
+ML020102 ML0201 Док-станции, порт-репликаторы, стенды, клавиатуры
+ML020103 ML0201 Зарядки для планшетов
+ML020104 ML0201 Мобильные аккумуляторы для планшетов
+ML020105 ML0201 Пленки для планшетов
+ML020106 ML0201 Прочие аксессуары для планшетов
+ML020107 ML0201 Стилусы
+ML020108 ML0201 Чехлы для планшетов
+ML020201 ML0202 Адаптеры и блоки питания
+ML020202 ML0202 Батареи
+ML020203 ML0202 Док-станции, порт-репликаторы, стенды
+ML020204 ML0202 Мыши
+ML020205 ML0202 Подставки
+ML020206 ML0202 Прочие опции и принадлежности
+ML020207 ML0202 Сумки
+null null null
+null null null
+null null null
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML030117 ML0301 Комплекты для сборки ПК
+ML030114 ML0301 Компьютеры под заказ
+ML030115 ML0301 Микрокомпьютеры
+ML030101 ML0301 Desktop
+ML030102 ML0301 Nettop
+ML030103 ML0301 Thin Сlient
+ML030104 ML0301 Tower
+ML030105 ML0301 Workstation
+ML030108 ML0301 Компьютеры IRU под заказ
+ML030112 ML0301 Моноблок
+ML030113 ML0301 Моноблок Баребон
+ML030205 ML0302 Аксессуары для микрокомпьютеров
+ML030202 ML0302 Опции для компьютеров
+ML070201 ML0702 USB
+ML070202 ML0702 Персональные СХД
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML070601 ML0706 Аксессуары для гаджетов
+ML070602 ML0706 Браслеты
+ML070704 ML0707 Криптокошельки
+ML070701 ML0707 Flash Card
+ML070702 ML0707 Flash Disk
+ML070703 ML0707 Аксессуары для Flash Disk
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+null null null
+null null null
+null null null
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML250121 ML2501 Селфи-палки
+ML250122 ML2501 Смарт-трекеры
+ML250106 ML2501 Держатели, подставки для сотовых телефонов
+ML250107 ML2501 Зарядки для сотовых телефонов
+ML250108 ML2501 Кабели и шлейфы
+ML250109 ML2501 Мобильные аккумуляторы для телефонов
+ML250110 ML2501 Модемы 3G/4G
+ML250111 ML2501 Моноподы, штативы
+ML250112 ML2501 Наушники и гарнитуры
+ML250113 ML2501 Пленки для сотовых телефонов
+ML250116 ML2501 Прочие аксессуары для сотовых телефонов
+ML250119 ML2501 Чехлы для сотовых телефонов
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+jq: error (at <stdin>:1): Cannot index string with string "ID"
+ML250301 ML2503 Смартфоны
+ML250302 ML2503 Сотовые телефоны
+ML250303 ML2503 Часы для смартфонов

@@ -1,0 +1,9 @@
+      "meta" : {
+        "href" : "https://api.moysklad.ru/api/remap/1.2/entity/variant/metadata/characteristics/VARIANT_UUID_3",
+        "type" : "attributemetadata",
+        "mediaType" : "application/json"
+      },
+      "id" : "VARIANT_UUID_3",
+      "name" : "VARIANT_NAME_3",
+      "value" : "VARIANT_VAL_3"
+    }, {

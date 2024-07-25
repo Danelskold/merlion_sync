@@ -1,0 +1,15 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mls="https://apitest.merlion.com/dl/mlservice3">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <mls:getItemsAvail>
+         <cat_id></cat_id>
+         <shipment_method></shipment_method>
+         <shipment_date></shipment_date>
+         <only_avail></only_avail>
+         <item_id>
+            <!--Zero or more repetitions:-->
+            <item>Order</item>
+         </item_id>
+      </mls:getItemsAvail>
+   </soapenv:Body>
+</soapenv:Envelope>

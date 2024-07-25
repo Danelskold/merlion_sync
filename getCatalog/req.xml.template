@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mls="https://apitest.merlion.com/dl/mlservice3">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <mls:getCatalog>
+         <cat_id>Order</cat_id>
+      </mls:getCatalog>
+   </soapenv:Body>
+</soapenv:Envelope>

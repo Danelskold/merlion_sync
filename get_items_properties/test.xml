@@ -1,0 +1,108 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns1="https://apitest.merlion.com/dl/mlservice3">
+   <SOAP-ENV:Body>
+      <ns1:getItemsPropertiesResponse>
+         <getItemsPropertiesResult>
+            <item>
+               <No>1976449</No>
+               <PropertyID>14530</PropertyID>
+               <PropertyName>Бренд</PropertyName>
+               <Sorting>1</Sorting>
+               <Value>IRU</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>120</PropertyID>
+               <PropertyName>Вес товара</PropertyName>
+               <Sorting>203</Sorting>
+               <Value>7</Value>
+               <Measure_Name>кг</Measure_Name>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>162</PropertyID>
+               <PropertyName>Операционная система</PropertyName>
+               <Sorting>52</Sorting>
+               <Value>Free DOS</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>810</PropertyID>
+               <PropertyName>Серия</PropertyName>
+               <Sorting>6</Sorting>
+               <Value>Home</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>812</PropertyID>
+               <PropertyName>Тип корпуса</PropertyName>
+               <Sorting>8</Sorting>
+               <Value>minitower</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>813</PropertyID>
+               <PropertyName>Процессор, производитель</PropertyName>
+               <Sorting>11</Sorting>
+               <Value>Intel</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>814</PropertyID>
+               <PropertyName>Процессор, семейство</PropertyName>
+               <Sorting>12</Sorting>
+               <Value>Core i3</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>815</PropertyID>
+               <PropertyName>Процессор, модель</PropertyName>
+               <Sorting>15</Sorting>
+               <Value>12100</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>816</PropertyID>
+               <PropertyName>Процессор, частота</PropertyName>
+               <Sorting>16</Sorting>
+               <Value>3.3</Value>
+               <Measure_Name>ГГц</Measure_Name>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+            <item>
+               <No>1976449</No>
+               <PropertyID>817</PropertyID>
+               <PropertyName>Количество процессоров</PropertyName>
+               <Sorting>10</Sorting>
+               <Value>1</Value>
+               <Measure_Name xsi:nil="true"/>
+               <Last_time_modified>2023-08-28T17:43:20</Last_time_modified>
+               <Section_Id>0</Section_Id>
+            </item>
+         </getItemsPropertiesResult>
+      </ns1:getItemsPropertiesResponse>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

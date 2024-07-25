@@ -1,0 +1,149 @@
+076d1933-bf74-11ee-0a80-13bb00579c13;ML43;Источники Бесперебойного Питания
+12eb8ae2-bf74-11ee-0a80-13bb00579e5d;ML45;Программное обеспечение
+438acfcf-bf79-11ee-0a80-00b900cc5090;0sPU1Cw5h21v7nI40yW9L1;Планшетные устройства
+43a17457-bf79-11ee-0a80-0f0c00ccd6d0;9ZsSKMGmhmojYVV69cUTh0;Материнские Платы
+43faaed5-bf79-11ee-0a80-051e00cc3a7e;ML4302;Батареи для ИБП
+44299aa6-bf79-11ee-0a80-00b900cc50c4;HyNx31diiyQmjJG0cdqzs3;Серверное ПО
+44413c99-bf79-11ee-0a80-01a900cd6b6d;7o5bBpVBh87zkWJeY0YOt0;Видеокарты
+4456b176-bf79-11ee-0a80-051e00cc3a9a;gWDEL1NOg2sOqKg6UHrLE0;Фоторамки
+445da1f2-bf79-11ee-0a80-11af00cbf7df;wZJ5wRJwgt4QiCG7dSrfq0;Аксессуары и опции для ноутбуков
+447cacd2-bf79-11ee-0a80-0baf00cc0634;cBIzkXp1hEz0-eVsgFISR0;Корпуса
+44920b2b-bf79-11ee-0a80-0baf00cc0637;pShtm0AziiIcOPgh0hFft1;Память оперативная
+44972e46-bf79-11ee-0a80-176700ced662;a7XYMZnEh1X8IvzWGp4w62;Электронные книги
+44b008c4-bf79-11ee-0a80-15e200cd0441;2pE24kTggQDbf4F2BKXkp1;Контроллеры
+44cac1dc-bf79-11ee-0a80-11af00cbf7fb;y9eH0WYsipDOQjSwijOM00;Носимая электроника
+45025091-bf79-11ee-0a80-0baf00cc0646;DevvWrQVhyQsfQvpXaYhn1;Плееры
+4527a1ba-bf79-11ee-0a80-051e00cc3adc;YGcOREPvgSBRw8A75LALx1;Навигационные системы
+4548f678-bf79-11ee-0a80-0baf00cc0650;2b0ddd9MhzJZuAPPUYcAp3;Приводы
+45868b07-bf79-11ee-0a80-0baf00cc0658;BPhIQsCihvqadUctFmWjP2;Устройства охлаждения
+45bcc5e2-bf79-11ee-0a80-068c00cc793e;5sAfK4FSjYvqrb3t7FRNH2;Звуковые Карты
+45ebf7fc-bf79-11ee-0a80-11af00cbf889;WGupT3uChMDSAOSQ8b3Jx0;Игровое и Развлекательное ПО
+463062ea-bf79-11ee-0a80-00b900cc5155;5z9MNjO1i6c3ZJQNFk4cB1;Приложения для бизнеса
+465a6d22-bf79-11ee-0a80-00b900cc516a;yJSDUzuQgLNuGgAKsJo-d2;Ноутбуки
+468bf366-bf79-11ee-0a80-0f0c00ccd786;aDnx7c48h8amZTQVpZD9M3;Диктофоны
+469da2c9-bf79-11ee-0a80-16e600cc822e;zJqU2u47iqASwtR13Tuc11;Компьютеры
+46ba1f49-bf79-11ee-0a80-16e600cc8239;ML4303;Стабилизаторы
+46dd1cb5-bf79-11ee-0a80-11af00cbf8be;4FW-ybexiSlE8wgMNXK-v0;Майнеры
+470f14be-bf79-11ee-0a80-068c00cc79c2;ML4300;Источник бесперебойного питания
+471e5088-bf79-11ee-0a80-15e200cd04df;ETbxbYhViWtchhVNFLABo2;Товар под заказ
+4745f75d-bf79-11ee-0a80-068c00cc79df;UDxTFs1zj4-rzNT9v01UZ3;База данных
+474e8649-bf79-11ee-0a80-176700ced7ea;ApGE0IgSiWttkSVzR3jdG2;Накопители SSD
+47739d16-bf79-11ee-0a80-068c00cc79f9;bNNOnpp-j17bsD-qVFT1A3;Жесткие Диски
+4779c38b-bf79-11ee-0a80-148600cfb639;4qK6DBcfiXun6sYgdXkaP3;Процессоры
+478f00cd-bf79-11ee-0a80-10a300cabdfa;K5x9EuvAiRcElEVvhN0iR0;Кабели и шлейфы
+47afcfb8-bf79-11ee-0a80-051e00cc3b95;NAQQI6BGivqRAXE067DfU1;Блоки питания
+47b42678-bf79-11ee-0a80-10a300cabe0e;jzbmvww4iCxMg2B1Ox89M3;Антивирусное ПО
+47d97445-bf79-11ee-0a80-0f0c00ccd7fb;tXXZ42ugij6mVKddFw-Hs0;Аксессуары
+47f0a6f4-bf79-11ee-0a80-00b900cc51b9;pZ1hOiuSiMOiEiV2pNxxr2;Аксессуары для мобильной связи
+47f95016-bf79-11ee-0a80-15e200cd053e;VKIYsePPgvFmgRC5SjBs12;Сотовые телефоны
+481d8844-bf79-11ee-0a80-01a900cd6d54;91LHqcavg-J9IoRonhk3-2;Носители информации
+481fc993-bf79-11ee-0a80-15e200cd0544;RDFJ3Cs4jJT8xXTfoSOO73;Внешние жесткие диски
+48321aba-bf79-11ee-0a80-15e200cd0549;7YukKZf9jdvx9k5j7POOf2;Инфраструктура
+48489e43-bf79-11ee-0a80-176700ced828;I3Cw1XFkje1gqVm5xuRYT0;Офисные приложения
+485e1ebf-bf79-11ee-0a80-176700ced82d;ML4301;Доп.модули и монтаж для ИБП
+488002be-bf79-11ee-0a80-051e00cc3ba7;28XdWHgZiI-3KmrFevlTl3;Коммуникаторы
+48855aa8-bf79-11ee-0a80-148600cfb6a3;toB0vZpnhtPKL8AGnc7tZ2;Опции для компьютеров
+4897bf22-bf79-11ee-0a80-15e200cd055a;uMDQ0miWjZ4BHi6lvCVxa3;Аксессуары для планшетных устройств
+48b7c54c-bf79-11ee-0a80-051e00cc3bb0;6P02qTYQhd4EXxlpzLqf60;Операционные системы
+48d3b4c5-bf79-11ee-0a80-0f0c00ccd817;ZskjfRKSgkfYt2gcQXIaE3;Флоппи-дисководы
+48e317d7-bf79-11ee-0a80-0baf00cc078b;ZOp7ZMMRjja-EewMv1bD72;Информационная безопасность
+9c7bf58e-bf85-11ee-0a80-176700d2f725;ydP3C0pEhcqvkjE5nnK-32;Прочие
+9c80c478-bf85-11ee-0a80-01a900d14ddf;S1D7IzKXhwb1crNX5Qawq0;ПАК
+9c8867f6-bf85-11ee-0a80-10a300cf11eb;dDQMFF7sglLBW82ujyPeW2;Держатели, подставки для планшетов
+9ca3fc6f-bf85-11ee-0a80-0f0c00d0e152;AtxiHSugjjxeCaAGY5bXR1;Другое
+9caf78ce-bf85-11ee-0a80-051e00d042ed;ML010604;SATA
+9cba1eaa-bf85-11ee-0a80-11af00d005f6;ML250106;Держатели, подставки для сотовых телефонов
+9cbc0895-bf85-11ee-0a80-068c00d09330;cyLL6fcXj32mlGInI5e213;Предустановленное ПО (ОЕМ)
+9cd399e4-bf85-11ee-0a80-051e00d04301;JuXDBgbphHRFdLfjHFbAg0;Прочее
+9cd976e8-bf85-11ee-0a80-176700d2f735;n6tyWEDmhntxhXMLjZypJ2;Аксессуары для устройств охлаждения
+9cde5c75-bf85-11ee-0a80-068c00d09338;ML030205;Аксессуары для микрокомпьютеров
+9ce453ae-bf85-11ee-0a80-11af00d0060f;bb4CnpDthPuRXRPgV1-oB3;Предустановленное ПО (ОЕМ)
+9cf52508-bf85-11ee-0a80-15e200d12529;wkxX6f1thhcpRaYGrGh-r3;ТпЗ
+9d0c7ef4-bf85-11ee-0a80-16e600d0a181;fXrdTHNNje1okwGFOB0OD0;Коробочные продукты
+9d0f9927-bf85-11ee-0a80-0baf00d00e3f;hMLQDyoPhcq1WTKab5nJw3;Смарт-трекеры
+9d2c2137-bf85-11ee-0a80-176700d2f748;ML030202;Опции для компьютеров
+9d5d7559-bf85-11ee-0a80-0baf00d00e4c;nUmTFe60ho-6FOCMec9rR1;Чехлы для планшетов
+9d7394d0-bf85-11ee-0a80-00b900d0814e;WUe7Aq-Bhtv69adqoVB-Z0;Сотовые телефоны
+9d803f59-bf85-11ee-0a80-0f0c00d0e182;d8Sikkk2idHiqnRJve5SL0;Socket-1151v2
+9d8cc14c-bf85-11ee-0a80-0baf00d00e4f;9ex406DwgbFRukYxcEdlj0;Bluetooth
+9d95026e-bf85-11ee-0a80-16e600d0a194;zuCOxtosgDCa9QYDzgwby3;Коробочные продукты
+9d978530-bf85-11ee-0a80-0baf00d00e52;ilEZRJqBjPa3-9SkdRodU2;Socket-AM5
+9da7d0b4-bf85-11ee-0a80-176700d2f754;4U21DbsTjE-aj3tS9Wvzh3;Услуги
+9dbb4810-bf85-11ee-0a80-10a300cf1230;crhvXZy5jyMKUXt1wHZ2h0;Для AMD
+9dd0403e-bf85-11ee-0a80-148600d3c927;ztLrXjiDi-lOweqFfGXxB2;Прочие опции и принадлежности
+9dd54946-bf85-11ee-0a80-051e00d0432d;N5OGreeZgQvfM8BpUApOs0;Компонент ПАК
+9deabc32-bf85-11ee-0a80-00b900d08173;6udylYyFhhvs4AivBJApS3;Socket-1200
+9deabdff-bf85-11ee-0a80-11af00d00626;0Jsr6d6ngIrQe2BHEP8vk0;Персональные СХД
+9dfebbc4-bf85-11ee-0a80-10a300cf1242;r3Z8hIldjNgpIA2EfZ5Os0;Пленки для сотовых телефонов
+9e03bf69-bf85-11ee-0a80-068c00d09362;DzGGMH20i02WoTfftAeV81;MiniITX
+9e1835f5-bf85-11ee-0a80-176700d2f766;XpKn9b8NjioyPbScOtWAT3;Док-станции, порт-репликаторы, стенды
+9e344784-bf85-11ee-0a80-0f0c00d0e191;kM6cprHwgrNWybG7R0M8P3;Термопаста
+9e346a75-bf85-11ee-0a80-11af00d0062f;4AnGWluXhGpMoUdwYRfmQ2;Адаптеры и блоки питания
+9e4b5341-bf85-11ee-0a80-15e200d12545;d0dd--GUg1zraYUn-ancI0;Зарядки для сотовых телефонов
+9e4efedf-bf85-11ee-0a80-051e00d0433c;IZnvpQ7WitoUSwnQ6fg731;Криптокошельки
+9e57d549-bf85-11ee-0a80-10a300cf1259;tcciT7GajTuWNrn-oy2Rd0;Внешний корпус для HDD
+9e6e3c03-bf85-11ee-0a80-176700d2f774;re5FSC46iuQnUpn0Fd94v1;Моноподы, штативы
+9e71f90f-bf85-11ee-0a80-068c00d09380;5mnQSwpfgKtQ3OjDYFR700;Socket-2066
+9e8773f9-bf85-11ee-0a80-15e200d1254c;XkgVtHimg5Lb7njsuhHGK0;SO-DIMM
+9e8a6b06-bf85-11ee-0a80-051e00d04357;HVr4MDBxirZlOngN6SN5I2;Для корпусов
+9e930bc3-bf85-11ee-0a80-11af00d0065f;Iwe6kdgjjxoZolGopdbOF1;Зарядки для планшетов
+9eaa846f-bf85-11ee-0a80-11af00d00666;gdvk4xKEgaEKhqJtrAFYo3;Диски и документация
+9eae2f60-bf85-11ee-0a80-01a900d14f48;ML011001;ATX
+9ec1c3f7-bf85-11ee-0a80-176700d2f79a;ML012306;Аксессуары для SSD
+9ec559fb-bf85-11ee-0a80-0baf00d00e7e;tt76t6zhj-dGO1jITkiI91;Все кулеры
+9edda71b-bf85-11ee-0a80-0f0c00d0e1a9;etJLge8GgB4kTaPrP0tPN2;Коробочные продукты
+9ee89493-bf85-11ee-0a80-068c00d093b1;ML010201;Mobile Rack
+9eefedec-bf85-11ee-0a80-16e600d0a241;CP4QKqQxgg3XqkH6qqm540;Сертификаты технической поддержки
+9ef51d27-bf85-11ee-0a80-051e00d04371;rEitJel2g8u0MGxYTuuIV0;Батареи
+9f0abaed-bf85-11ee-0a80-051e00d04376;3QxHPmmyix4UNZvgDKqX73;Аксессуары для гаджетов
+9f220221-bf85-11ee-0a80-15e200d1256b;FUbzReRbj1DgDeke6Px8s1;Часы для смартфонов
+9f258ef2-bf85-11ee-0a80-0baf00d00e8b;2gJ1IfO8hUTPnDHdXQ39D2;Мыши
+9f401a18-bf85-11ee-0a80-16e600d0a258;djjIw5mkjY7FOKcIqU2GX0;Internal Card Reader
+9f66e643-bf85-11ee-0a80-15e200d12570;4al6hCCajA31r5bfu4T3L0;Коробочные продукты
+9f6b42fa-bf85-11ee-0a80-051e00d04379;Q8J21yCujhzb4FP-ZvpMr1;Диски и документация
+9f76cb23-bf85-11ee-0a80-10a300cf1294;ML012304;M.2
+9f84ca25-bf85-11ee-0a80-16e600d0a265;YwKamkyKgTmzi1tIBRfJZ2;Именные лицензии
+9fac5104-bf85-11ee-0a80-176700d2f7bf;URlqaxt0j6se2JWGS4IRb1;DDR3
+9fae2d00-bf85-11ee-0a80-0f0c00d0e1bc;GBW5J3Yvgr2GigSHS3ELO2;Сертификаты технической поддержки
+9fc734a3-bf85-11ee-0a80-051e00d0438a;y6KSHdoCiSpPGcC1NGwMb3;Аксессуары для Flash Disk
+9fd23c73-bf85-11ee-0a80-0f0c00d0e1c5;O2-sfL3iipLC3H81KXveY3;Наушники и гарнитуры
+9fdfdc0b-bf85-11ee-0a80-11af00d006a3;Nfvx3HpHhTGI2MkpC0yuO2;Именные лицензии
+9fe1fb7a-bf85-11ee-0a80-0f0c00d0e1cb;a7vRoGQTgCEdSFYaBUXRf1;Именные лицензии
+a000da04-bf85-11ee-0a80-15e200d12591;yNmyOJHKjd8xH7W484M5O2;Прочие аксессуары для сотовых телефонов
+a004f579-bf85-11ee-0a80-01a900d14f8d;PFeG0lI6jX6c2c9pfqcIb3;Сумки
+a00d6de3-bf85-11ee-0a80-15e200d12594;KBzuSJCggK1iTisNTvftC0;Подставки
+a033ecbc-bf85-11ee-0a80-0baf00d00ea0;f42MHAbEhvFYGBVbpF3Nv0;Диски и документация
+a048b8b9-bf85-11ee-0a80-01a900d14fa3;ML011212;DDR5
+a04c86fb-bf85-11ee-0a80-10a300cf12c3;HD9q9kYYhN8IS0yTJZX2D1;Селфи-палки
+a0657fa8-bf85-11ee-0a80-10a300cf12c8;yHvWbKfhhKFsG8vP00U092;Смартфоны
+a0680ec5-bf85-11ee-0a80-0f0c00d0e203;s3yVpOemiacAZZ090N78U0;Универсальные
+a071ad33-bf85-11ee-0a80-11af00d006aa;99vdwyMMj32wZdrxZAz8B0;Чехлы для сотовых телефонов
+a08c7353-bf85-11ee-0a80-068c00d093d7;XMAAro-LgoKuzPM6ommjp1;USB
+a09c5702-bf85-11ee-0a80-148600d3c98c;IxI98YwKhUPPMtNdGkuf00;Для INTEL
+a09f6190-bf85-11ee-0a80-0f0c00d0e207;16vCnArWinFFs9TAhfQ7Y3;Кабели и шлейфы
+a0a94f78-bf85-11ee-0a80-176700d2f7e8;3hb34ptNgRkBOwGsB0bhX1;TV-Tuner
+a0c38267-bf85-11ee-0a80-0f0c00d0e217;ML011202;DDR II
+a0cbc695-bf85-11ee-0a80-11af00d006b8;QleSQdbngvN8Dbr5TTb-t3;mATX
+a0ceb416-bf85-11ee-0a80-01a900d14fbb;bzky7sikiIn6m1VfZX4LJ0;Док-станции, порт-репликаторы, стенды, клавиатуры
+a0e75bb7-bf85-11ee-0a80-01a900d14fbe;ML012305;mSATA
+a0faa430-bf85-11ee-0a80-0baf00d00eb8;1SisdsBuhguzG1cbGzfoJ0;2,5
+a11270de-bf85-11ee-0a80-0f0c00d0e21a;22SJM0E3iA3DYpfqS9wnQ0;Server Memory
+a11efd68-bf85-11ee-0a80-0f0c00d0e21d;WbAmbCVKgAzp0RLOarCKq3;Диски и документация
+a12d210e-bf85-11ee-0a80-10a300cf130e;PVsFqm5-hHCCKcsr4X4XQ1;Пленки для планшетов
+a1300eb0-bf85-11ee-0a80-068c00d0940a;78FyQw1hj4OuXchKtp4QR1;Flash Card
+a139b337-bf85-11ee-0a80-10a300cf1312;ML010802;Кабели и шлейфы
+a149b05a-bf85-11ee-0a80-11af00d006cb;plHw92K5jcmfzUxPwIlxS1;PCI-E
+a1886596-bf85-11ee-0a80-148600d3c9aa;iss3PxMYgrJelS82-WP5I1;Мобильные аккумуляторы для планшетов
+a1c15213-bf85-11ee-0a80-15e200d125bd;lK6ReNEhidvDo1JBEQ3a62;Flash Disk
+a1dfcabf-bf85-11ee-0a80-0baf00d00ec7;68zEPnwfilTC9M2NXmtT03;Стилусы
+a1edb597-bf85-11ee-0a80-0f0c00d0e230;l9loRjRCjqQ6amyE4tSr51;Socket-AM4
+a1f51056-bf85-11ee-0a80-16e600d0a2c1;pHk1fPwBjwS6oHv98Qf2q1;Мобильные аккумуляторы для телефонов
+a1f8e9e1-bf85-11ee-0a80-0baf00d00ecc;DUyZ9T6WhmQa-fKTsS6oj0;DDR4
+a200323d-bf85-11ee-0a80-11af00d006da;WuZyO03RhBDCijekDm7tv2;Прочие аксессуары для планшетов
+a21b4e0d-bf85-11ee-0a80-0baf00d00edc;gR4htpkBj4iag4ENzsgkA2;Браслеты
+a2278bad-bf85-11ee-0a80-0baf00d00edf;ddzHNNIqgx430zzt7Tc6a2;Socket-1700
+a4c13c64-bf73-11ee-0a80-01a7005b806e;ML01;Комплектующие для компьютеров
+d51c7ab2-bf73-11ee-0a80-07d4005a5673;ML02;Ноутбуки и планшеты
+deea2690-bf73-11ee-0a80-10a1005ac039;ML03;Компьютеры
+e8016f0f-bf73-11ee-0a80-034d00592a60;ML07;Портативная электроника
+f71f21a0-bf73-11ee-0a80-034d00592e70;ML25;Мобильная связь

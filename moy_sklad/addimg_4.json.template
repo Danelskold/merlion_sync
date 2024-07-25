@@ -1,0 +1,12 @@
+ {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/c0598638-c8dd-11ee-0a80-0777002b2c9b",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "c0598638-c8dd-11ee-0a80-0777002b2c9b",
+    "name" : "Изображение 5",
+    "type" : "string",
+    "value" : "IMG_4",
+    "required" : false
+  },

@@ -1,0 +1,1 @@
+MYSQL_CMD="/usr/bin/mysql -u $MYSQL_USER -p${MYSQL_PASS} -D $MYSQL_DB -h $MYSQL_HOST -ss --raw -e"

@@ -1,0 +1,9 @@
+{
+            "name": "PRODUCT_NAME",
+            "code": "CODE",
+            "externalCode": "EXT_CODE",
+            "description": "DESCRIPTION",
+            "vat": 20,
+            "effectiveVat": 20,
+            "discountProhibited": false,
+	    "characteristics" : [ {

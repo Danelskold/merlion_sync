@@ -1,0 +1,105 @@
+	    "productFolder" : {
+	      "meta" : {
+	        "href" : "https://api.moysklad.ru/api/remap/1.2/entity/productfolder/PRODUCT_FOLDER",
+	        "metadataHref" : "https://api.moysklad.ru/api/remap/1.2/entity/productfolder/metadata",
+	        "type" : "productfolder",
+	        "mediaType" : "application/json",
+	        "uuidHref" : "https://online.moysklad.ru/app/#good/edit?id=PRODUCT_FOLDER"
+	      }
+	    },
+            "uom": {
+              "meta": {
+                "href": "https://api.moysklad.ru/api/remap/1.2/entity/uom/19f1edc0-fc42-4001-94cb-c9ec9c62ec10",
+                "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/uom/metadata",
+                "type": "uom",
+                "mediaType": "application/json"
+              }
+            },
+            "supplier": {
+              "meta": {
+                "href": "https://api.moysklad.ru/api/remap/1.2/entity/counterparty/58f99593-ad3a-11ee-0a80-08ce00595d64",
+                "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/counterparty/metadata",
+                "type": "counterparty",
+                "mediaType": "application/json"
+              }
+            },
+            "minPrice": {
+             "value": MIN_PRICE,
+              "currency": {
+                "meta": {
+                  "href": "https://api.moysklad.ru/api/remap/1.2/entity/currency/58f9d9c1-ad3a-11ee-0a80-08ce00595d68",
+                  "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/currency/metadata",
+                  "type": "currency",
+                  "mediaType": "application/json"
+                }
+              }
+            },
+            "buyPrice": {
+              "value": BUY_PRICE,
+              "currency": {
+                "meta": {
+                  "href": "https://api.moysklad.ru/api/remap/1.2/entity/currency/58f9d9c1-ad3a-11ee-0a80-08ce00595d68",
+                  "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/currency/metadata",
+                  "type": "currency",
+                  "mediaType": "application/json"
+                }
+              }
+            },
+            "salePrices": [
+              {
+                "value": ROZNICA_PRICE,
+                "currency": {
+                  "meta": {
+                    "href": "https://api.moysklad.ru/api/remap/1.2/entity/currency/58f9d9c1-ad3a-11ee-0a80-08ce00595d68",
+                    "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/currency/metadata",
+                    "type": "currency",
+                    "mediaType": "application/json"
+                  }
+                },
+                "priceType": {
+                  "meta": {
+                    "href": "https://api.moysklad.ru/api/remap/1.2/context/companysettings/pricetype/58fa0802-ad3a-11ee-0a80-08ce00595d69",
+                    "type": "pricetype",
+                    "mediaType": "application/json"
+                  }
+                }
+              },
+              {
+                "value": ROZNICA_PRICE,
+                "currency": {
+                  "meta": {
+                    "href": "https://api.moysklad.ru/api/remap/1.2/entity/currency/58f9d9c1-ad3a-11ee-0a80-08ce00595d68",
+                    "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/currency/metadata",
+                    "type": "currency",
+                    "mediaType": "application/json"
+                  }
+                },
+                "priceType": {
+                  "meta": {
+                    "href": "https://api.moysklad.ru/api/remap/1.2/context/companysettings/pricetype/58fa0802-ad3a-11ee-0a80-08ce00595d69",
+                    "type": "pricetype",
+                    "mediaType": "application/json"
+                  }
+                }
+              }
+            ],
+            "article": "Ar23",
+            "weight": 200,
+            "volume": 300,
+            "packs": [
+              {
+                "uom": {
+                  "meta": {
+                    "href": "https://api.moysklad.ru/api/remap/1.2/entity/uom/2ec1170c-3f69-4409-87bb-c68e0011b275",
+                    "metadataHref": "https://api.moysklad.ru/api/remap/1.2/entity/uom/metadata",
+                    "type": "uom",
+                    "mediaType": "application/json"
+                  }
+                },
+                "quantity": 2
+              }
+            ],
+            "isSerialTrackable": false,
+            "trackingType": "NOT_TRACKED"
+          }
+

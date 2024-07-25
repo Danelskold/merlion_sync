@@ -1,0 +1,114 @@
+ "attributes" : [ {
+      "meta" : {
+        "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/0f011034-c8bd-11ee-0a80-1509002bed46",
+        "type" : "attributemetadata",
+        "mediaType" : "application/json"
+      },
+      "id" : "0f011034-c8bd-11ee-0a80-1509002bed46",
+      "name" : "Изображение 1",
+      "type" : "link",
+      "value" : "IMG_0"
+    }, {
+      "meta" : {
+        "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ea663-c8c7-11ee-0a80-0e1c002c2acd",
+        "type" : "attributemetadata",
+        "mediaType" : "application/json"
+      },
+      "id" : "1e5ea663-c8c7-11ee-0a80-0e1c002c2acd",
+      "name" : "Изображение 2",
+      "type" : "link",
+      "value" : "IMG_1"
+    }, {
+      "meta" : {
+        "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5eb82c-c8c7-11ee-0a80-0e1c002c2ace",
+        "type" : "attributemetadata",
+        "mediaType" : "application/json"
+      },
+      "id" : "1e5eb82c-c8c7-11ee-0a80-0e1c002c2ace",
+      "name" : "Изображение 3",
+      "type" : "link",
+      "value" : "IMG_2"
+    },
+ {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ebfd3-c8c7-11ee-0a80-0e1c002c2acf",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5ebfd3-c8c7-11ee-0a80-0e1c002c2acf",
+    "name" : "Изображение 4",
+    "type" : "link",
+    "value" : "IMG_3",
+    "required" : false
+  },
+ {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ec5a9-c8c7-11ee-0a80-0e1c002c2ad0",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5ec5a9-c8c7-11ee-0a80-0e1c002c2ad0",
+    "name" : "Изображение 5",
+    "type" : "string",
+    "value" : "IMG_4",
+    "required" : false
+  },
+ {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ecb18-c8c7-11ee-0a80-0e1c002c2ad1",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5ecb18-c8c7-11ee-0a80-0e1c002c2ad1",
+    "name" : "Изображение 6",
+    "type" : "link",
+    "value" : "IMG_5",
+    "required" : false
+  }, {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ed04c-c8c7-11ee-0a80-0e1c002c2ad2",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5ed04c-c8c7-11ee-0a80-0e1c002c2ad2",
+    "name" : "Изображение 7",
+    "type" : "link",
+    "value" : "IMG_6",
+    "required" : false
+  }, {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5ed551-c8c7-11ee-0a80-0e1c002c2ad3",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5ed551-c8c7-11ee-0a80-0e1c002c2ad3",
+    "name" : "Изображение 8",
+    "type" : "link",
+    "value" : "IMG_7",
+    "required" : false
+  },
+ {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5eda4f-c8c7-11ee-0a80-0e1c002c2ad4",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5eda4f-c8c7-11ee-0a80-0e1c002c2ad4",
+    "name" : "Изображение 9",
+    "type" : "link",
+    "value" : "IMG_8",
+    "required" : false
+  }, {
+    "meta" : {
+      "href" : "https://api.moysklad.ru/api/remap/1.2/entity/product/metadata/attributes/1e5edf95-c8c7-11ee-0a80-0e1c002c2ad5",
+      "type" : "attributemetadata",
+      "mediaType" : "application/json"
+    },
+    "id" : "1e5edf95-c8c7-11ee-0a80-0e1c002c2ad5",
+    "name" : "Изображение 10",
+    "type" : "link",
+    "value" : "IMG_9",
+    "required" : false
+  }
+ ],
+

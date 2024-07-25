@@ -1,0 +1,10 @@
+{
+          "name": "CHILDGROUPNAME",
+          "productFolder": {
+          "meta": {
+          "href": "https://api.moysklad.ru/api/remap/1.2/entity/productfolder/PARENTGROUPUUID",
+          "metadataHref": "https://online.moysklad.ru/api/remap/1.2/entity/productfolder/metadata",
+          "type": "productfolder"
+      }
+      }
+}
